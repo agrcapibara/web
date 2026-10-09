@@ -1,6 +1,6 @@
 {
-  "name": "Mi Sistema",
-  "short_name": "Sistema",
+    "name": "AGRCAPIBARA",
+  "short_name": "AGRCAPIBARA",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
